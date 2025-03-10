@@ -1,0 +1,25 @@
+:root {
+  /* Cores */
+  --brand-color: #ef5f4c;
+  --background-color: #ffffff;
+  --surface-color: #f5f5f5;
+  --skeleton-color: #d9d9d9;
+  --shape-transparency: #ffffff8f;
+
+  /* Text color*/
+  --text-color-primary: #313131;
+  --text-color-secondary: #6c6c6c;
+
+  /* Fontes */
+  --font-family: "Poppins", sans-serif;
+
+  /* Títulos */
+  --text-lg: bold 2rem/1.25 var(--font-family);
+
+  /* Parágrafos */
+  --text-nm: 1rem/1.5 var(--font-family);
+
+  --text-md: 0.875rem/1.75 var(--font-family);
+
+  --text-sm: 0.75rem/1.75 var(--font-family);
+}
