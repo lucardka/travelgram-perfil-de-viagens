@@ -18,3 +18,13 @@ a:hover {
   color: var(--brand-color);
   transition: color 0.2s ease;
 }
+
+.container {
+  padding-inline: 2rem;
+  max-width: 1280px;
+  margin-inline: auto;
+}
+
+.bg-sufarce-color {
+background-color: var(--surface-color);
+}
