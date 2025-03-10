@@ -26,5 +26,11 @@ a:hover {
 }
 
 .bg-sufarce-color {
-background-color: var(--surface-color);
+  background-color: var(--surface-color);
+}
+
+#info {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
