@@ -29,8 +29,9 @@ a:hover {
   background-color: var(--surface-color);
 }
 
-#info {
+/* #info {
+  display: flex;
   list-style-type: none;
   margin: 0;
   padding: 0;
-}
+} */
