@@ -7,3 +7,8 @@ footer {
 footer span:nth-child(1) {
   margin-right: auto;
 }
+
+footer a:hover {
+  color: var(--brand-color);
+  transition: color 0.2s ease;
+}
