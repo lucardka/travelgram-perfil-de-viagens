@@ -9,4 +9,14 @@ main img {
   width: 286px;
   height: 286px;
   object-fit: cover;
+  border: 1px solid #ddd; /* Adiciona uma borda de 1 pixel, sólida e cinza claro */
+  border-radius: 5px; /* Adiciona um arredondamento suave aos cantos da borda */
+}
+
+main.container img {
+  transition: transform 0.3s ease; /* Adiciona uma transição suave */
+}
+
+main.container img:hover {
+  transform: scale(1.1); /* Aumenta a escala da imagem em 10% */
 }
